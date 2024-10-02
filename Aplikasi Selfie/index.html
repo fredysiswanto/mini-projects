@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Template</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+    <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.7.2/aframe/build/aframe-ar.js"></script>
+  </head>
+  <body>
+    <!-- <div id="content" class="container">
+      <video class="card" id="video" autoplay></video>
+      <div class="desc">
+        <button id="start">Ambil Gambar</button>
+      </div>
+    </div> -->
+    <!-- A-Frame Scene with AR.js -->
+    <a-scene embedded arjs>
+      <!-- Define the AR Marker -->
+      <a-marker preset="hiro">
+        <!-- AR Model (Kacamata atau Topi) -->
+        <a-entity
+          position="0 0.5 0"
+          scale="0.1 0.1 0.1"
+          gltf-model="https://github.com/aframevr/assets/blob/master/a-painter/images/sky.jpg"
+        >
+        </a-entity>
+      </a-marker>
+      <a-entity camera></a-entity>
+    </a-scene>
+
+    <div id="controls">
+      <button id="start-camera">Mulai Kamera</button>
+      <button id="stop-camera">Berhenti</button>
+      <button id="take-photo">Ambil Gambar</button>
+    </div>
+    <canvas id="snapshot"></canvas>
+    <script src="./assets/js/apps.js"></script>
+  </body>
+</html>
