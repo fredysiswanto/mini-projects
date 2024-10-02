@@ -1,0 +1,20 @@
+{
+  "menu": {},
+  "contents": [
+    {
+      "link": "Aplikasi Nomor Antrian Sederhana/index.html",
+      "image": "Aplikasi Nomor Antrian Sederhana.png",
+      "title": "Aplikasi Nomor Antrian Sederhana"
+    },
+    {
+      "link": "Aplikasi Operator Gate Parkir/index.html",
+      "image": "Aplikasi Operator Gate Parkir.PNG",
+      "title": "Aplikasi Operator Gate Parkir"
+    },
+    {
+      "link": "/Aplikasi Selfie/index.html",
+      "image": "Aplikasi Nomor Antrian Sederhana.png",
+      "title": "Aplikasi Selfie"
+    }
+  ]
+}

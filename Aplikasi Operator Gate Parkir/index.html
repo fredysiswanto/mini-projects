@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Aplikasi Operator Gate Parkir</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <div id="content" class="container">
+      <div class="detail-transaction">
+        <div class="detail-parking">
+          <h3>Data Kendaraan</h3>
+          <div class="detail-group">
+            <label for="no-parking">No Parkir</label>
+            <p id="no-parking" class="detail-text">01321523</p>
+          </div>
+          <div class="detail-group">
+            <label for="plat-number">No Kendaraan</label>
+            <p id="plat-number" class="detail-text">BP 2793 AA</p>
+          </div>
+          <div class="detail-group">
+            <label for="time-parking-in">Tanggal Parkir Masuk</label>
+            <p id="time-parking-in" class="detail-text">
+              28 Agustus 2024 | Jam 03:00:05 WIB
+            </p>
+          </div>
+          <div class="detail-group">
+            <label for="priode-parking">Lama Parkir</label>
+            <p id="priode-parking" class="detail-text">
+              24 Jam - 30 Menit - 15 Detik
+            </p>
+          </div>
+        </div>
+        <div class="detail-paiment">
+          <div class="fee-parking">
+            <div class="card">
+              <div class="card-body">
+                <h4 class="card-title">Biaya Parkir</h4>
+                <hr />
+                <p class="card-text">Rp. 15.000</p>
+              </div>
+              <div class="card-footer">
+                <button>Proses</button>
+              </div>
+            </div>
+          </div>
+          <div class="input-operator">
+            <div class="card">
+              <div class="card-body">
+                <h4 class="card-title">Pencarian Data</h4>
+                <hr />
+                <label for="plat-number">Plat Kendaraan / No Parkir</label>
+                <input type="text" /><button>Cari</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="image-in">
+        <h3>Kendaraan Masuk</h3>
+        <img
+          src="./assets/images/img-in.jpg"
+          width="100%"
+          height="auto"
+          alt=""
+          srcset=""
+        />
+      </div>
+      <div class="image-out">
+        <h3>Kendaraan Keluar</h3>
+        <img
+          src="./assets/images/img-in.jpg"
+          width="100%"
+          height="auto"
+          alt=""
+          srcset=""
+        />
+      </div>
+      <div class="report">
+        <table>
+          <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Points</th>
+          </tr>
+          <tr>
+            <td>Peter</td>
+            <td>Griffin</td>
+            <td>$100</td>
+          </tr>
+          <tr>
+            <td>Lois</td>
+            <td>Griffin</td>
+            <td>$150</td>
+          </tr>
+          <tr>
+            <td>Lois</td>
+            <td>Griffin</td>
+            <td>$150</td>
+          </tr>
+          <tr>
+            <td>Lois</td>
+            <td>Griffin</td>
+            <td>$150</td>
+          </tr>
+          <tr>
+            <td>Lois</td>
+            <td>Griffin</td>
+            <td>$150</td>
+          </tr>
+          <tr>
+            <td>Lois</td>
+            <td>Griffin</td>
+            <td>$150</td>
+          </tr>
+          <tr>
+            <td>Joe</td>
+            <td>Swanson</td>
+            <td>$300</td>
+          </tr>
+          <tr>
+            <td>Cleveland</td>
+            <td>Brown</td>
+            <td>$250</td>
+          </tr>
+        </table>
+      </div>
+      <div class="detail-operator">
+        <div id="actions">
+          <button id="loket_1"><span>Loket 1 </span>PUSH</button>
+          <button id="loket_2"><span>Loket 2 </span>PUSH</button>
+          <button id="loket_3"><span>Loket 3 </span>PUSH</button>
+          <button id="reset">RESET</button>
+        </div>
+        <div class="operator">
+          <h3>Detail Operator</h3>
+          <p>Tgl Login : <span>02-Aug-2024 | 07:00 WIB</span></p>
+          <p>Nama Operator : <span>Fredy S</span></p>
+          <p>Nama Total Kas : <span>Rp. 500.000</span></p>
+        </div>
+      </div>
+    </div>
+
+    <script src="./assets/js/apps.js"></script>
+  </body>
+</html>
