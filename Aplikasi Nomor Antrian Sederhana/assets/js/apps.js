@@ -11,9 +11,17 @@ function updateNoAntrian() {
       } else {
         const noConter = this.id.slice(-1);
         renderUi(noConter - 1);
+        playSound(noConter, antrian);
       }
     });
   });
+}
+
+function playSound(loket, number) {
+  const message = `Nomor Antrian ${number} untuk Loket ${loket}`;
+  const speech = new SpeechSynthesisUtterance(message);
+  speech.lang = 'id-ID'; // Set language to Indonesian
+  speechSynthesis.speak(speech);
 }
 
 function renderUi(params) {
