@@ -1,0 +1,798 @@
+{
+  "Group 1": [
+    {
+      "V1": "bet ",
+      "V2": "bet ",
+      "V3": "bet ",
+      "MEANING": "bertaruh"
+    },
+    {
+      "V1": "broadcast ",
+      "V2": "broadcast ",
+      "V3": "broadcast ",
+      "MEANING": "menyiarkan"
+    },
+    {
+      "V1": "burst",
+      "V2": "burst",
+      "V3": "burst",
+      "MEANING": "meledak/pecah"
+    },
+    {
+      "V1": "cast",
+      "V2": "cast",
+      "V3": "cast",
+      "MEANING": "melemparkan"
+    },
+    {
+      "V1": "cost",
+      "V2": "cost",
+      "V3": "cost",
+      "MEANING": "berharga"
+    },
+    {
+      "V1": "cut",
+      "V2": "cut",
+      "V3": "cut",
+      "MEANING": "memotong"
+    },
+    {
+      "V1": "fit",
+      "V2": "fit",
+      "V3": "fit",
+      "MEANING": "mencocokan"
+    },
+    {
+      "V1": "forecast",
+      "V2": "forecast",
+      "V3": "forecast",
+      "MEANING": "meramalkan"
+    },
+    {
+      "V1": "hit",
+      "V2": "hit",
+      "V3": "hit",
+      "MEANING": "menabrak/memukul"
+    },
+    {
+      "V1": "hurt",
+      "V2": "hurt",
+      "V3": "hurt",
+      "MEANING": "melukai"
+    },
+    {
+      "V1": "let",
+      "V2": "let",
+      "V3": "let",
+      "MEANING": "membiarkan"
+    },
+    {
+      "V1": "put",
+      "V2": "put",
+      "V3": "put",
+      "MEANING": "meletakkan"
+    },
+    {
+      "V1": "quit",
+      "V2": "quit",
+      "V3": "quit",
+      "MEANING": "keluar"
+    },
+    {
+      "V1": "read",
+      "V2": "read",
+      "V3": "read",
+      "MEANING": "membaca"
+    },
+    {
+      "V1": "rid",
+      "V2": "rid",
+      "V3": "rid",
+      "MEANING": "membersihkan"
+    },
+    {
+      "V1": "set",
+      "V2": "set",
+      "V3": "set",
+      "MEANING": "memasang/menaruh"
+    },
+    {
+      "V1": "shut ",
+      "V2": "shut ",
+      "V3": "shut ",
+      "MEANING": "menutup"
+    },
+    {
+      "V1": "spit ",
+      "V2": "spit ",
+      "V3": "spit ",
+      "MEANING": "meludah"
+    },
+    {
+      "V1": "split",
+      "V2": "split",
+      "V3": "split",
+      "MEANING": "membelah"
+    }
+  ],
+  "Group 2": [
+    {
+      "V1": "bend",
+      "V2": "bent",
+      "V3": "bent",
+      "MEANING": "menekuk"
+    },
+    {
+      "V1": "bind",
+      "V2": "bound",
+      "V3": "bound",
+      "MEANING": "mengikat"
+    },
+    {
+      "V1": "bleed ",
+      "V2": "bled",
+      "V3": "bled",
+      "MEANING": "berdarah"
+    },
+    {
+      "V1": "breed",
+      "V2": "bred",
+      "V3": "bred",
+      "MEANING": "membiakkan"
+    },
+    {
+      "V1": "Bring",
+      "V2": "Brought",
+      "V3": "Brought",
+      "MEANING": "membawa"
+    },
+    {
+      "V1": "build",
+      "V2": "built",
+      "V3": "built",
+      "MEANING": "membangun"
+    },
+    {
+      "V1": "burn",
+      "V2": "burnt/ burned",
+      "V3": "burnt/ burned",
+      "MEANING": "membakar"
+    },
+    {
+      "V1": "buy ",
+      "V2": "bought",
+      "V3": "bought",
+      "MEANING": "membeli"
+    },
+    {
+      "V1": "catch",
+      "V2": "caught",
+      "V3": "caught",
+      "MEANING": "menangkap"
+    },
+    {
+      "V1": "cling",
+      "V2": "clung",
+      "V3": "clung",
+      "MEANING": "melekat"
+    },
+    {
+      "V1": "creep",
+      "V2": "crept",
+      "V3": "crept",
+      "MEANING": "merangkak"
+    },
+    {
+      "V1": "deal",
+      "V2": "dealt",
+      "V3": "dealt",
+      "MEANING": "membagi (kartu)"
+    },
+    {
+      "V1": "dig",
+      "V2": "dug",
+      "V3": "dug",
+      "MEANING": "menggali"
+    },
+    {
+      "V1": "feed",
+      "V2": "fed",
+      "V3": "fed",
+      "MEANING": "memberi makan"
+    },
+    {
+      "V1": "feel",
+      "V2": "felt",
+      "V3": "felt",
+      "MEANING": "merasakan"
+    },
+    {
+      "V1": "Fight",
+      "V2": "Fought",
+      "V3": "Fought",
+      "MEANING": "berkelahi"
+    },
+    {
+      "V1": "find",
+      "V2": "found",
+      "V3": "found",
+      "MEANING": "menemukan"
+    },
+    {
+      "V1": "flee",
+      "V2": "fled",
+      "V3": "fled",
+      "MEANING": "melarikan diri"
+    },
+    {
+      "V1": "fling",
+      "V2": "flung",
+      "V3": "flung",
+      "MEANING": "menjebloskan"
+    },
+    {
+      "V1": "grind",
+      "V2": "ground",
+      "V3": "ground",
+      "MEANING": "menggiling"
+    },
+    {
+      "V1": "hang ",
+      "V2": "hung",
+      "V3": "hung",
+      "MEANING": "menggantungkan"
+    },
+    {
+      "V1": "have",
+      "V2": "had",
+      "V3": "had",
+      "MEANING": "mempunyai"
+    },
+    {
+      "V1": "hear",
+      "V2": "heard",
+      "V3": "heard",
+      "MEANING": "mendengar"
+    },
+    {
+      "V1": "hold",
+      "V2": "held",
+      "V3": "Held",
+      "MEANING": "memegang"
+    },
+    {
+      "V1": "Keep",
+      "V2": "Kept",
+      "V3": "Kept",
+      "MEANING": "menjaga"
+    },
+    {
+      "V1": "lay",
+      "V2": "laid",
+      "V3": "laid",
+      "MEANING": "meletakkan"
+    },
+    {
+      "V1": "lead",
+      "V2": "led",
+      "V3": "led",
+      "MEANING": "memimpin"
+    },
+    {
+      "V1": "Leave ",
+      "V2": "Left",
+      "V3": "Left",
+      "MEANING": "meninggalkan"
+    },
+    {
+      "V1": "Lend ",
+      "V2": "Lent",
+      "V3": "Lent",
+      "MEANING": "meminjami"
+    },
+    {
+      "V1": "light",
+      "V2": "lit/lighted",
+      "V3": "lit/lighted",
+      "MEANING": "menyalakan"
+    },
+    {
+      "V1": "Lose",
+      "V2": "Lost",
+      "V3": "Lost",
+      "MEANING": "kehilangan"
+    },
+    {
+      "V1": "Make ",
+      "V2": "Made",
+      "V3": "Made",
+      "MEANING": "membuat"
+    },
+    {
+      "V1": "Mean",
+      "V2": "Meant",
+      "V3": "Meant",
+      "MEANING": "mengartikan"
+    },
+    {
+      "V1": "mislay",
+      "V2": "mislaid",
+      "V3": "mislaid",
+      "MEANING": "salah meletakkan"
+    },
+    {
+      "V1": "Pay ",
+      "V2": "Paid",
+      "V3": "Paid",
+      "MEANING": "membayar"
+    },
+    {
+      "V1": "Say",
+      "V2": "Said",
+      "V3": "Said",
+      "MEANING": "berkata"
+    },
+    {
+      "V1": "send",
+      "V2": "sent",
+      "V3": "sent",
+      "MEANING": "mengirim"
+    },
+    {
+      "V1": "Sell ",
+      "V2": "Sold",
+      "V3": "Sold",
+      "MEANING": "menjual"
+    },
+    {
+      "V1": "Shoot ",
+      "V2": "Shot",
+      "V3": "Shot",
+      "MEANING": "menembak"
+    },
+    {
+      "V1": "Sit ",
+      "V2": "Sat",
+      "V3": "Sat",
+      "MEANING": "duduk"
+    },
+    {
+      "V1": "Sleep",
+      "V2": "Slept",
+      "V3": "Slept",
+      "MEANING": "tidur"
+    },
+    {
+      "V1": "slide",
+      "V2": "slid",
+      "V3": "slid",
+      "MEANING": "menyelipkan"
+    },
+    {
+      "V1": "speed",
+      "V2": "sped/speeded",
+      "V3": "sped/speeded",
+      "MEANING": "mempercepat"
+    },
+    {
+      "V1": "spend ",
+      "V2": "spent",
+      "V3": "spent",
+      "MEANING": "menghabiskan"
+    },
+    {
+      "V1": "spit",
+      "V2": "spit/spat",
+      "V3": "spit/spat",
+      "MEANING": "meludah"
+    },
+    {
+      "V1": "spring",
+      "V2": "sprang/sprung",
+      "V3": "sprang/sprung",
+      "MEANING": "menutup/ menerkam"
+    },
+    {
+      "V1": "Stand",
+      "V2": "Stood",
+      "V3": "Stood",
+      "MEANING": "berdiri"
+    },
+    {
+      "V1": "stick",
+      "V2": "stuck",
+      "V3": "stuck",
+      "MEANING": "menikam"
+    },
+    {
+      "V1": "sting",
+      "V2": "stung",
+      "V3": "stung",
+      "MEANING": "menyengat"
+    },
+    {
+      "V1": "sweep ",
+      "V2": "swept",
+      "V3": "swept",
+      "MEANING": "menyapu"
+    },
+    {
+      "V1": "teach ",
+      "V2": "taught",
+      "V3": "taught",
+      "MEANING": "mengajar"
+    },
+    {
+      "V1": "tell ",
+      "V2": "told",
+      "V3": "told",
+      "MEANING": "mengatakan"
+    },
+    {
+      "V1": "think",
+      "V2": "thought  ",
+      "V3": "thought  ",
+      "MEANING": "berfikir"
+    },
+    {
+      "V1": "understand",
+      "V2": "understood",
+      "V3": "understood",
+      "MEANING": "mengerti/paham"
+    },
+    {
+      "V1": "weep",
+      "V2": "wept",
+      "V3": "wept",
+      "MEANING": "menangis"
+    },
+    {
+      "V1": "win",
+      "V2": "won",
+      "V3": "won",
+      "MEANING": "memenangkan"
+    },
+    {
+      "V1": "wind ",
+      "V2": "wound",
+      "V3": "wound",
+      "MEANING": "membalut/memutar"
+    },
+    {
+      "V1": "wring ",
+      "V2": "wrung",
+      "V3": "wrung",
+      "MEANING": "meremas- remas"
+    }
+  ],
+  "Group 3": [
+    {
+      "V1": "Become",
+      "V2": "became",
+      "V3": "Become",
+      "MEANING": "menjadi "
+    },
+    {
+      "V1": "Come",
+      "V2": "came",
+      "V3": "Come",
+      "MEANING": "datang"
+    },
+    {
+      "V1": "overcome ",
+      "V2": "overcame",
+      "V3": "overcome ",
+      "MEANING": "mengatasi"
+    },
+    {
+      "V1": "run",
+      "V2": "ran",
+      "V3": "run",
+      "MEANING": "berlari"
+    }
+  ],
+  "Group 4": [
+    {
+      "V1": "Arise",
+      "V2": "Arose",
+      "V3": "Arisen",
+      "MEANING": "bangun/terbit/timbul"
+    },
+    {
+      "V1": "awake",
+      "V2": "awoke/awaked",
+      "V3": "awoken/awaked",
+      "MEANING": "bangun"
+    },
+    {
+      "V1": "be (am/is/are)",
+      "V2": "was/were",
+      "V3": "been",
+      "MEANING": "adalah"
+    },
+    {
+      "V1": "beat",
+      "V2": "beat",
+      "V3": "beaten",
+      "MEANING": "mengalahkan/memukul"
+    },
+    {
+      "V1": "bite",
+      "V2": "bit",
+      "V3": "bitten",
+      "MEANING": "menggigit"
+    },
+    {
+      "V1": "blow",
+      "V2": "blew",
+      "V3": "blown",
+      "MEANING": "meniup"
+    },
+    {
+      "V1": "Break ",
+      "V2": "Broke",
+      "V3": "Broken",
+      "MEANING": "Memecahkan"
+    },
+    {
+      "V1": "choose",
+      "V2": "chose",
+      "V3": "chosen",
+      "MEANING": "memilih"
+    },
+    {
+      "V1": "do/ don't , doesn't",
+      "V2": "did, didn't",
+      "V3": "done",
+      "MEANING": "melakukan"
+    },
+    {
+      "V1": "Draw",
+      "V2": "Drew",
+      "V3": "Drawn",
+      "MEANING": "Menggambar"
+    },
+    {
+      "V1": "Drive",
+      "V2": "Drove",
+      "V3": "Driven",
+      "MEANING": "Menyetir"
+    },
+    {
+      "V1": "Eat",
+      "V2": "Ate",
+      "V3": "Eaten",
+      "MEANING": "Makan"
+    },
+    {
+      "V1": "Fall",
+      "V2": "Fell",
+      "V3": "Fallen",
+      "MEANING": "Jatuh"
+    },
+    {
+      "V1": "fly",
+      "V2": "flew",
+      "V3": "flown",
+      "MEANING": "terbang"
+    },
+    {
+      "V1": "Forbid",
+      "V2": "Forbade",
+      "V3": "Forbidden",
+      "MEANING": "Melarang"
+    },
+    {
+      "V1": "Forget",
+      "V2": "Forgot",
+      "V3": "Forgotten",
+      "MEANING": "Melupakan"
+    },
+    {
+      "V1": "Forgive",
+      "V2": "Forgave",
+      "V3": "Forgiven",
+      "MEANING": "Memaafkan"
+    },
+    {
+      "V1": "forsake",
+      "V2": "forsook",
+      "V3": "forsaken",
+      "MEANING": "mengabaikan/meninggalkan"
+    },
+    {
+      "V1": "Freeze",
+      "V2": "Froze",
+      "V3": "Frozen",
+      "MEANING": "Membekukan"
+    },
+    {
+      "V1": "Get",
+      "V2": "Got",
+      "V3": "Got/Gotten",
+      "MEANING": "Mendapat"
+    },
+    {
+      "V1": "Give",
+      "V2": "Gave",
+      "V3": "Given",
+      "MEANING": "Memberi"
+    },
+    {
+      "V1": "Go",
+      "V2": "Went",
+      "V3": "Gone",
+      "MEANING": "Pergi"
+    },
+    {
+      "V1": "Grow",
+      "V2": "Grew",
+      "V3": "Grown",
+      "MEANING": "Tumbuh/berkembang"
+    },
+    {
+      "V1": "hide",
+      "V2": "hid",
+      "V3": "hidden",
+      "MEANING": "bersembunyi"
+    },
+    {
+      "V1": "Know",
+      "V2": "Knew",
+      "V3": "Known",
+      "MEANING": "Mengetahui"
+    },
+    {
+      "V1": "lie",
+      "V2": "lay",
+      "V3": "lain",
+      "MEANING": "berbohong"
+    },
+    {
+      "V1": "mistake",
+      "V2": "mistook",
+      "V3": "mistaken",
+      "MEANING": "salah mengira"
+    },
+    {
+      "V1": "Ride",
+      "V2": "rode",
+      "V3": "Ridden",
+      "MEANING": "Menunggang"
+    },
+    {
+      "V1": "rise",
+      "V2": "rose",
+      "V3": "risen",
+      "MEANING": "bangun/terbit/timbul"
+    },
+    {
+      "V1": "See",
+      "V2": "Saw",
+      "V3": "Seen",
+      "MEANING": "Melihat"
+    },
+    {
+      "V1": "Shake",
+      "V2": "Shook",
+      "V3": "shaken",
+      "MEANING": "menggeleng/mengocok"
+    },
+    {
+      "V1": "Speak",
+      "V2": "Spoke",
+      "V3": "spoken",
+      "MEANING": "Berbicara"
+    },
+    {
+      "V1": "Steal",
+      "V2": "Stole",
+      "V3": "Stolen",
+      "MEANING": "Mencuri"
+    },
+    {
+      "V1": "strive",
+      "V2": "strove",
+      "V3": "striven",
+      "MEANING": "berjuang"
+    },
+    {
+      "V1": "Swear",
+      "V2": "Swore",
+      "V3": "Sworn",
+      "MEANING": "bersumpah"
+    },
+    {
+      "V1": "Take",
+      "V2": "Took",
+      "V3": "Taken",
+      "MEANING": "Membawa"
+    },
+    {
+      "V1": "tear ",
+      "V2": "tore",
+      "V3": "torn",
+      "MEANING": "merobek"
+    },
+    {
+      "V1": "Throw",
+      "V2": "Threw",
+      "V3": "Thrown",
+      "MEANING": "Melempar"
+    },
+    {
+      "V1": "undertake",
+      "V2": "undertook",
+      "V3": "undertaken",
+      "MEANING": "menjalankan (job)"
+    },
+    {
+      "V1": "wake ",
+      "V2": "woke/waked",
+      "V3": "waken/waked",
+      "MEANING": "membangunkan"
+    },
+    {
+      "V1": "Wear",
+      "V2": "Wore",
+      "V3": "Worn",
+      "MEANING": "Memakai"
+    },
+    {
+      "V1": "weave",
+      "V2": "wove",
+      "V3": "woven",
+      "MEANING": "menenun"
+    },
+    {
+      "V1": "withdarw",
+      "V2": "withdrew",
+      "V3": "withdrawn",
+      "MEANING": "mengambil (tabungan)"
+    },
+    {
+      "V1": "Write",
+      "V2": "Wrote",
+      "V3": "Written",
+      "MEANING": "Menulis"
+    }
+  ],
+  "Group 5": [
+    {
+      "V1": "begin",
+      "V2": "began",
+      "V3": "begun",
+      "MEANING": "memulai"
+    },
+    {
+      "V1": "Drink",
+      "V2": "Drank",
+      "V3": "Drunk",
+      "MEANING": "Minum"
+    },
+    {
+      "V1": "Ring",
+      "V2": "Rang",
+      "V3": "Rung",
+      "MEANING": "Berdering"
+    },
+    {
+      "V1": "Sing",
+      "V2": "Sang",
+      "V3": "Sung",
+      "MEANING": "Menyanyi"
+    },
+    {
+      "V1": "stink",
+      "V2": "stank/stunk",
+      "V3": "stunk",
+      "MEANING": "menyengat"
+    },
+    {
+      "V1": "Swim",
+      "V2": "Swam",
+      "V3": "Swum",
+      "MEANING": "Berenang"
+    }
+  ]
+}

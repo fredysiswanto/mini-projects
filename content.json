@@ -12,9 +12,14 @@
       "title": "Aplikasi Operator Gate Parkir"
     },
     {
-      "link": "/Aplikasi Selfie/index.html",
+      "link": "Aplikasi Selfie/index.html",
       "image": "Aplikasi Nomor Antrian Sederhana.png",
       "title": "Aplikasi Selfie"
+    },
+    {
+      "link": "Learn Irregular Verb/index.html",
+      "image": "Learn Irregular Verb.png",
+      "title": "Learn Irregular Verb"
     }
   ]
 }

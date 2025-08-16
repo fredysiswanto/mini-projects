@@ -1,0 +1,366 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+blockquote,
+q {
+  quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+body {
+  background: #f5f7fa;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 5px;
+}
+
+table td {
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.active-cell {
+  background-color: #ffe066 !important;
+}
+
+#loading {
+  text-align: center;
+  padding: 20px;
+  font-size: 1.2rem;
+}
+
+.group-nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.group-nav button {
+  padding: 8px 15px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.group-nav button:hover {
+  background-color: #2980b9;
+}
+
+#speaking-indicator {
+  text-align: center;
+  margin: 10px 0;
+  font-weight: bold;
+  min-height: 24px;
+  color: #e74c3c;
+}
+
+select {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  table {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 576px) {
+  table {
+    font-size: 0.8rem;
+  }
+
+  th,
+  td {
+    padding: 5px 2px;
+    white-space: normal;
+    /* Memungkinkan text wrap pada layar kecil */
+  }
+
+  /* Atur ulang lebar kolom untuk tampilan mobile */
+  th:nth-child(1),
+  td:nth-child(1) {
+    /* NO column */
+    width: 7%;
+  }
+
+  th:nth-child(2),
+  td:nth-child(2),
+  /* V1 column */
+  th:nth-child(3),
+  td:nth-child(3),
+  /* V2 column */
+  th:nth-child(4),
+  td:nth-child(4) {
+    /* V3 column */
+    width: 21%;
+  }
+
+  th:nth-child(5),
+  td:nth-child(5) {
+    /* MEANING column */
+    width: 30%;
+  }
+}
+
+h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #2c3e50;
+}
+
+h2 {
+  font-size: 1.8rem;
+  color: #3498db;
+  margin: 30px 0 15px;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-collapse: separate;
+  border-spacing: 0;
+  table-layout: fixed;
+  /* Menjaga lebar kolom konsisten */
+}
+
+table thead {
+  background-color: #3498db;
+  color: white;
+}
+
+/* Mengatur lebar kolom secara spesifik */
+th:nth-child(1),
+td:nth-child(1) {
+  /* NO column */
+  width: 10%;
+}
+
+th:nth-child(2),
+td:nth-child(2),
+/* V1 column */
+th:nth-child(3),
+td:nth-child(3),
+/* V2 column */
+th:nth-child(4),
+td:nth-child(4) {
+  /* V3 column */
+  width: 20%;
+}
+
+th:nth-child(5),
+td:nth-child(5) {
+  /* MEANING column */
+  width: 30%;
+}
+
+th,
+td {
+  padding: 6px 8px;
+  text-align: center;
+  border: 1px solid #e1e8ed;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  /* Menambahkan elipsis jika teks terlalu panjang */
+}
+
+th {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.9rem;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f8f9fa;
+}
+
+tbody tr:hover {
+  background-color: #e1f0fa;
+}
+
+select {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  th,
+  td {
+    padding: 8px 6px;
+    font-size: 0.9rem;
+  }
+
+  /* Atur ulang lebar kolom untuk tampilan tablet */
+  th:nth-child(1),
+  td:nth-child(1) {
+    /* NO column */
+    width: 8%;
+  }
+
+  select {
+    width: 100%;
+  }
+}
